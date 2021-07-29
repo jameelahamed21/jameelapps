@@ -9,5 +9,6 @@
   
     
   'data': [ 'views/assets.xml'],
-    'images': ['static/description/banner.png'],
+    'images': ['static/description/banner.png',
+              'static/description/theme_screenshot.png'],
 }
