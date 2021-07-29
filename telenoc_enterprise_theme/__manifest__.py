@@ -5,10 +5,9 @@
   'category': 'Themes/Backend',
   'author': 'Odoo Team, Telenoc',
   'website': 'http://www.telenoc.org/',
+  'license': 'LGPL-3',
   
     
   'data': [ 'views/assets.xml'],
-    'images': [
-        'static/description/icon.png',
-        'static/description/banner.png'],
+    'images': ['static/description/banner.png'],
 }
