@@ -1,5 +1,6 @@
 {
   'name':'Telenoc Enterprise Theme',
+  'summary': 'Odoo Enterprise Backend Theme',
   'description': 'This module for backend dashboard theme.',
   'version': '14.0.1.0.0',
   'category': 'Themes/Backend',
