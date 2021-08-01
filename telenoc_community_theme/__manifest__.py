@@ -21,5 +21,7 @@
         "static/src/xml/control_panel.xml",
         "static/src/xml/search_panel.xml",
     ],
+        'images': ['static/description/banner.png',
+              'static/description/theme_screenshot.png'],
     "sequence": 1,
 }
