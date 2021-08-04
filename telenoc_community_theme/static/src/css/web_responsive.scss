@@ -163,7 +163,7 @@ $chatter_zone_width: 35%;
         opacity: 0;
         visibility: hidden;
         transition: visibility 100ms ease, opacity 100ms ease;
-        background: url("../img/background.png");
+        background: url("../img/background.svg"), linear-gradient(to left bottom, #77717e, #c9a8a9);
         background-size: cover;
         border-radius: 0;
         // Display apps in a grid
