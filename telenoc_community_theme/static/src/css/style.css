@@ -184,6 +184,10 @@
     background-color: #6e1004 !important;
 }
 
+.o_MessagingMenu_counter {
+    background-color: #a9473c !important;
+}
+
 @media (min-width: 769px)
 {
     
